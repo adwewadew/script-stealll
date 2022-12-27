@@ -1,1 +1,4 @@
-alert(152)
+function eda(){
+    alert("hello world");
+}
+eda();
