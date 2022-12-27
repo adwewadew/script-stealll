@@ -1,4 +1,1 @@
-function eda(){
-    alert("hello world");
-}
-eda();
+alert(10);
